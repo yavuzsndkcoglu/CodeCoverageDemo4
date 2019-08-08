@@ -40,4 +40,3 @@ Kullanılan program versiyonları:
 -Apache Maven 3.6.1
 -Java JDK 1.8.0_221
 -Jacoco 0.8.4
-
