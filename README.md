@@ -33,7 +33,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 (Not: 13. adımı uygulamadan önce 9. ve 10. adımları uygululamalısınız aksi taktirde testiniz hata verecek ve başarılı sonuçlanmayacaktır. 9. ve 10. adımları uygulayarak eski test sonuçlarını temizlemiş oluyorsunuz ve bu sayede eski test sonuçları sebebiyle ortaya çıkan hatayı önlemiş oluyorsunuz.
-Bu nedenle 13. adımdaki kısayolu 2. ve daha sonraki test işlemlerinizde kullanınız. Her test işleminden sonra 11. adımdaki yenileme işlemini yapmanız gerekmekte aksi takdirde test sonuç grafiğiniz ne kadar test ederseniz edin eski sonuçları gösterecektir, bu adımı uygulayarak grafiği yenilemiş oluyorsunuz.)
+Bu nedenle 13. adımdaki kısayolu 2. ve daha sonraki test işlemlerinizde kullanınız. Her test işleminden sonra 11. adımdaki yenileme işlemini yapmanız gerekmekte aksi takdirde test sonuç grafiğiniz ne kadar test ederseniz edin eski sonuçları gösterecektir, bu adımı uygulayarak grafiği yenilemiş oluyorsunuz. Demolarda isimlerinin sonunda 2 bulunanlar testlerin eksiksiz yapıldığı yani coverage sonucunun %100 test edilmiş olduğu versiyonlardır, diğerleri bu demonun %100 test edilmiş olmadığı yani coverage testinin %100 sonuç vermediği versiyonlarıdır.)
 
 Kullanılan program versiyonları:
 
